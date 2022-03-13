@@ -3,8 +3,7 @@
     "description": "Import customer",
     "type": "magento2-module",
     "require": {
-      "php": "^7.3",
-      "magento/framework": "^100.0"
+      "php": "^7.3"
     },
     "autoload": {
       "files": [
